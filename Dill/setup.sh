@@ -17,17 +17,3 @@ echo "╔═══════════════════════�
 echo "║           INSTALLING DILL NODE...                ║"
 echo "╚══════════════════════════════════════════════════╝"
 curl -sO https://raw.githubusercontent.com/DillLabs/launch-dill-node/main/dill.sh  && chmod +x dill.sh && ./dill.sh
-
-# Success message
-echo "╔══════════════════════════════════════════════════╗"
-echo "║      DILL NODE IS SUCCESSFULLY INSTALLED!        ║"
-echo "║    You can stake TestnetDill there:              ║"
-echo "║    https://staking.dill.xyz/en/                  ║"
-echo "╚══════════════════════════════════════════════════╝"
-
-# Log instructions
-echo "╔══════════════════════════════════════════════════╗"
-echo "║     CHECK NODE STAT ON THIS WEBSITE!             ║"
-echo "║     https://alps.dill.xyz/validators             ║"
-echo "╚══════════════════════════════════════════════════╝"
-curl -s https://raw.githubusercontent.com/skurbro/NodeRunner/main/Services/finish.sh | bash
