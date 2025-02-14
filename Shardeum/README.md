@@ -1,7 +1,7 @@
 # SHARDEUM
 
 ```bash
-curl -s https://raw.githubusercontent.com/skurbro/NodeRunner/Shardeum/setup.sh
+curl -s https://raw.githubusercontent.com/skurbro/NodeRunner/main/Shardeum/setup.sh | bash
 ```
 
 ### LOGS
