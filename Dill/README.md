@@ -1,6 +1,6 @@
 # DILL
 
 ```bash
-curl -s https://raw.githubusercontent.com/skurbro/NodeRunner/Dill/setup.sh
+curl -s https://raw.githubusercontent.com/skurbro/NodeRunner/main/Dill/setup.sh | bash
 ```
 

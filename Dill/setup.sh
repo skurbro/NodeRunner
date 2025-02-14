@@ -4,13 +4,13 @@
 echo "╔══════════════════════════════════════════════════╗"
 echo "║            WELCOME TO DILL SETUP                 ║"
 echo "╚══════════════════════════════════════════════════╝"
-curl -s https://raw.githubusercontent.com/skurbro/NodeRunner/Services/start.sh | bash
+curl -s https://raw.githubusercontent.com/skurbro/NodeRunner/main/Services/start.sh | bash
 
 # Installing required software
 echo "╔══════════════════════════════════════════════════╗"
 echo "║         INSTALLING REQUIRED SOFTWARE...          ║"
 echo "╚══════════════════════════════════════════════════╝"
-curl -s https://raw.githubusercontent.com/skurbro/NodeRunner/Services/tools.sh | bash 
+curl -s https://raw.githubusercontent.com/skurbro/NodeRunner/main/Services/tools.sh | bash 
 
 # Installing Shardeum Node
 echo "╔══════════════════════════════════════════════════╗"
@@ -30,4 +30,4 @@ echo "╔═══════════════════════�
 echo "║     CHECK NODE STAT ON THIS WEBSITE!             ║"
 echo "║     https://alps.dill.xyz/validators             ║"
 echo "╚══════════════════════════════════════════════════╝"
-curl -s https://raw.githubusercontent.com/skurbro/NodeRunner/Services/finish.sh | bash
+curl -s https://raw.githubusercontent.com/skurbro/NodeRunner/main/Services/finish.sh | bash
